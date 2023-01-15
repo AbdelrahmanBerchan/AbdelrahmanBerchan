@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning C#
 - 💬 Ask me about anything you want i'm happy to answer!
 - 📫 How to reach me: To reach me you have to add me on discord (My handle: flash_powered_YT#8230)
-- ⚡ Fun fact: I know Python, javascript, CSS and HTML fluently.
+- ⚡ Fun fact: I know Python, javascript, CSS and HTML fluently!
 - 🔗 My website link is https://sites.google.com/view/abdelrahman-b
